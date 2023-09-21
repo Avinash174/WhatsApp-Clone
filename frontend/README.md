@@ -1,6 +1,10 @@
+<<<<<<< HEAD:frontend/README.md
 # frontend
+=======
+# Whatsapp-Clone
+>>>>>>> refs/remotes/origin/main:README.md
 
-A new Flutter project.
+A New Whatsapp Clone App In Flutter.
 
 ## Getting Started
 
